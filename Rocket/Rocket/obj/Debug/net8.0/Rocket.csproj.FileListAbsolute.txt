@@ -1,0 +1,14 @@
+D:\Upskill\C#\Rocket\Rocket\bin\Debug\net8.0\Rocket.exe
+D:\Upskill\C#\Rocket\Rocket\bin\Debug\net8.0\Rocket.deps.json
+D:\Upskill\C#\Rocket\Rocket\bin\Debug\net8.0\Rocket.runtimeconfig.json
+D:\Upskill\C#\Rocket\Rocket\bin\Debug\net8.0\Rocket.dll
+D:\Upskill\C#\Rocket\Rocket\bin\Debug\net8.0\Rocket.pdb
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\Rocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\Rocket.AssemblyInfoInputs.cache
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\Rocket.AssemblyInfo.cs
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\Rocket.csproj.CoreCompileInputs.cache
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\Rocket.dll
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\refint\Rocket.dll
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\Rocket.pdb
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\Rocket.genruntimeconfig.cache
+D:\Upskill\C#\Rocket\Rocket\obj\Debug\net8.0\ref\Rocket.dll
